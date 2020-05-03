@@ -1,0 +1,32 @@
+main{
+    width: 70%;
+    display: inline-block;
+    
+}
+aside{
+    width:26%;
+    display: inline-block;
+    vertical-align: top;
+    border-width: 1px 10px;
+    border-color:lightslategray;
+    border-style:solid;
+    margin:1px 5px 1px;
+    
+}
+nav{
+    background-color: blue;
+
+}
+.title{
+    background-color:lightgray;
+    background-position: center;
+
+    
+
+}
+.one{
+    border-bottom-color: black;
+    border-bottom-width:5px;
+    border-bottom-style: solid;
+    border-top-width: 3px;
+}
